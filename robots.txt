@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://maryjanetechagency.github.io/MaryJaneTechAgency/sitemap.xml
